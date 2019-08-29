@@ -20,7 +20,7 @@
   在Stack Overflow上刷过JS标签的题目，自己以前录制过一个ES的视频教程 https://www.udemy.com/course/understand-javascript-with-ecmascript/learn/lecture/13019704#overview
 
 - 熟悉AJAX
-
+  阅读过AJAX的语言规范，录制过相关的教程，https://www.udemy.com/course/ajaz-gitblog/learn/lecture/12993178#overview
 
 - 熟悉node、Vue和TypeScript
   
