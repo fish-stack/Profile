@@ -6,6 +6,7 @@
 
 
 ## 技术栈
+
 - Java后端开发
 
   熟悉Spring、SpringMVC、SpringBoot以及MyBatis
@@ -13,6 +14,14 @@
 - 前端开发
 
   熟悉node、Vue和TypeScript
+  
+- 熟悉HTTP协议
+
+  写过一个结合WireShark抓包的Http协议教程 https://github.com/fish-java/HelloHTTP
+  
+- 熟悉REST风格
+
+  使用GitHub的REST接口开发过多个项目，自己的项目完全遵守REST风格。
   
 ## 性格
 热爱开源和分享，在Github有多个开源项目，平台爱逛技术社区以及写博客，之前写博客的平台比较杂乱，现在集中在 https://github.com/fish-stack  这个地方
