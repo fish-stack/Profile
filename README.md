@@ -9,7 +9,7 @@
 
 - 熟悉Java语言
 
-  对字节码、虚拟机方面比较了解，对并发这一个方面不熟悉。
+  对字节码、虚拟机方面比较了解；对并发这一个方面不熟悉。
 
 - 熟悉Spring、SpringMVC、SpringBoot技术栈
 
@@ -17,10 +17,10 @@
   
 - 熟悉JS、ES
 
-  在Stack Overflow上刷过JS标签的题目，自己以前录制过一个ES的视频教程 https://www.udemy.com/course/understand-javascript-with-ecmascript/learn/lecture/13019704#overview
+  在Stack Overflow上刷过JS标签的题目，自己以前录制过一个[ES的视频教程](https://www.udemy.com/course/understand-javascript-with-ecmascript/learn/lecture/13019704#overview)
 
 - 熟悉AJAX
-  阅读过AJAX的语言规范，录制过相关的教程，https://www.udemy.com/course/ajaz-gitblog/learn/lecture/12993178#overview
+  阅读过AJAX的语言规范，录制过[相关的教程](https://www.udemy.com/course/ajaz-gitblog/learn/lecture/12993178#overview)
 
 - 熟悉node、Vue和TypeScript
   
@@ -32,6 +32,10 @@
 
   使用GitHub的REST接口开发过多个项目，自己的项目完全遵守REST风格。
   
+- 做过运维
+  
+  拥有个人云服务器约一年半，是在Digital Ocean上购买的。使用Docker、Nginx等技术部署过多个网站。不过之前感觉运维很累，就把自己的网站都下线了，目前服务器只做SSR一个用途。
+  
 - 不喜欢CSS，没有艺术细胞
   
   这块学的不是很扎实，对这方面很多知识也在遗忘
@@ -39,6 +43,7 @@
 - 不擅长前端的构建流程
 
   之前有认真学过，但是知识点太繁杂，自己放弃了这方面的技能点
+  
   
 ## 性格
 热爱开源和分享，在Github有多个开源项目，平台爱逛技术社区以及写博客，之前写博客的平台比较杂乱，现在集中在 https://github.com/fish-stack  这个地方
