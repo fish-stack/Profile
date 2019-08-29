@@ -7,13 +7,22 @@
 
 ## 技术栈
 
-- Java后端开发
+- 熟悉Java语言
 
-  熟悉Spring、SpringMVC、SpringBoot以及MyBatis
+  对字节码、虚拟机方面比较了解，对并发这一个方面不熟悉。
 
-- 前端开发
+- 熟悉Spring、SpringMVC、SpringBoot技术栈
 
-  熟悉node、Vue和TypeScript
+  基于这套技术栈，我写了很多小项目，在https://github.com/fish-spring 和  https://github.com/fish-springboot 这里
+  
+- 熟悉JS、ES
+
+  在Stack Overflow上刷过JS标签的题目，自己以前录制过一个ES的视频教程 https://www.udemy.com/course/understand-javascript-with-ecmascript/learn/lecture/13019704#overview
+
+- 熟悉AJAX
+
+
+- 熟悉node、Vue和TypeScript
   
 - 熟悉HTTP协议
 
