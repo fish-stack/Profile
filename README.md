@@ -65,7 +65,7 @@
    
    一次是看到一个npm项目有bug，[帮忙改了下](https://github.com/sindresorhus/shell-env/commit/f4676bf65cd45c058c207d94ca5d2c255b51d0f7)
   
- - Stack Overflow 600点声望
+ - Stack Overflow 588点声望
  
    这是我的SO链接，https://stackoverflow.com/users/8252883/bitfishxyz
   
