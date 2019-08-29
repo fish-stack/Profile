@@ -22,7 +22,17 @@
 - 熟悉AJAX
   阅读过AJAX的语言规范，录制过[相关的教程](https://www.udemy.com/course/ajaz-gitblog/learn/lecture/12993178#overview)
 
-- 熟悉node、Vue和TypeScript
+- 熟悉TypeScript
+
+  一开始是学习JS的，后来我意识到动态类型语言的可读性非常差，就选择学习TS。在学习TS中，发现相关的资料比较少，有去学了Java，在学习Java过程中，反倒是提高了我对TS的理解。目前水平尚可
+  
+- 熟悉Node
+
+  写了半年的node
+
+- 熟悉Vue技术栈
+
+  在前端中，我主要就是学习的Vue技术栈
   
 - 熟悉HTTP协议
 
@@ -43,6 +53,21 @@
 - 不擅长前端的构建流程
 
   之前有认真学过，但是知识点太繁杂，自己放弃了这方面的技能点
+  
+- 能阅读英文技术文档
+
+  英文技术文档词汇比较少，阅读起来没有问题，不过非技术文档的英文阅读起来有困难
+  
+  
+ - 和老外交流合作开发过几次开源项目
+ 
+   一次是我写过一个[nclone](https://github.com/saltfish666/nclone)项目，一个歪果仁主动为我的项目画logo
+   
+   一次是看到一个npm项目有bug，[帮忙改了下](https://github.com/sindresorhus/shell-env/commit/f4676bf65cd45c058c207d94ca5d2c255b51d0f7)
+  
+ - Stack Overflow 600点声望
+ 
+   这是我的SO链接，https://stackoverflow.com/users/8252883/bitfishxyz
   
   
 ## 性格
